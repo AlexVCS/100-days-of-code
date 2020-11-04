@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 2, 2020
+### Day 1: November 2nd, 2020
 
 **Today's Progress**: I worked on my React shopping list. Added SCSS rules to optimize 4 mobile. Next, I'll be working on adding JS functionality to it. Tinkered a bit with it already.
 
@@ -10,14 +10,15 @@ Also worked on the Full Stack Open course. Anecdote app in the making.
 
 **Link to work:** [Shopping List](https://github.com/AlexVCS/Shopping-List)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 3rd, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked on my React portfolio site. Working on adding & formatting data for the skills page. Optimized the homepage for mobile.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Also worked on a hamburger menu nav bar for an open source project. Still have to get it implemented how I’d like.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I really need to work on better problem solving with JavaScript! That will be tomorrow's task.
+
+**Link(s) to work**: N/A (for now)
 
 
 ### Day 1: June 27, Monday
