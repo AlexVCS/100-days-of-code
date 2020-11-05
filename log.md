@@ -21,12 +21,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Link(s) to work**: N/A (for now)
 
 
-### Day 1: June 27, Monday
+### Day 3: November 4th, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: This morning I worked on learning 2 generate a random # w/JS. Still need 2 work more with that. I looked at my React shopping list and remembered @RandallKanna
+'s advice: if you're having trouble w/a project build it with html, css & plain JS. I will :)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I'm going to build my foundational skills for frontend more so I can get to working with frameworks and other parts of frontend development more easily.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: N/A (for now)
