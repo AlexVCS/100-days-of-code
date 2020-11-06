@@ -29,3 +29,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I'm going to build my foundational skills for frontend more so I can get to working with frameworks and other parts of frontend development more easily.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 4: November 5th, 2020
+
+**Today's Progress**: I worked on my shopping list. Setting it up and learning about how others have approach shopping lists. On the React hamburger navigation, I found an animated hamburger package that looks great. For my portfolio project I am making it more responsive and spacing things out a bit better.
+
+**Thoughts** Each day I code and each day I learn a little more. Some days feel better than others but as long as I code each day I'm happy.
+
+**Link(s) to work**: N/A (for now)
