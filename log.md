@@ -37,3 +37,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Each day I code and each day I learn a little more. Some days feel better than others but as long as I code each day I'm happy.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 5: November 6th, 2020
+
+**Today's Progress**: Focus was Full Stack Open curriculum. I'm working on the anecdotes app. Reviewed sample code and have generaeted a function to select a random anecdote. Need to figure out the implementation. Made a couple corrections to an open source project too.
+
+**Thoughts** Feel close to getting the anecdote app working. Need to keep tinkering with it.
+
+**Link(s) to work**: N/A (for now)
