@@ -48,7 +48,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 6: November 7th, 2020
 
-**Today's Progress**: Continued with the anecdotes app. Took some code I've written in an earlier part of the course and used it there. Was a fly on the wall for a Zoom call where friends where working on testing a Golang app. Tiny tweaks to my React hamburger nav.
+**Today's Progress**: Continued with the anecdotes app. Took some code I've written in an earlier part of the course and used it there. Was a fly on the wall for a Zoom call were friends where working on testing a Golang app. Tiny tweaks to my React hamburger nav.
 
 **Thoughts** Even when I'm tired I'm coding and though it's difficult I'm persisting.
 
