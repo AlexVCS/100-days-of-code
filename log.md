@@ -53,3 +53,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Even when I'm tired I'm coding and though it's difficult I'm persisting.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 7: November 8th, 2020
+
+**Today's Progress**: Got the random anecdotes app working. Thanks to Eliot for looking at my code. Worked on the Pure React course and hooped on a Code Book Club call.
+
+**Thoughts** Everyday I code.
+
+**Link(s) to work**: N/A (for now)
