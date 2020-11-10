@@ -61,3 +61,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Everyday I code.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 8: November 9th, 2020
+
+**Today's Progress**: Continued with Full Stack Open. Went to part two and reviewed/used map, filter and reduce functions in JS. Started the new MERNG course from freeCodeCamp too. Enjoying the process of daily coding.
+
+**Thoughts** MongoDB and GraphQL have been talked about by other developers I know a lot. I'm excited to work with them more in my projects.
+
+**Link(s) to work**: N/A (for now)
