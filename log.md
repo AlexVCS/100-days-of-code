@@ -70,10 +70,18 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 **Link(s) to work**: N/A (for now)
 
-### Day 9: November 9th, 2020
+### Day 9: November 10th, 2020
 
 **Today's Progress**: Did more of the freeCodeCamp MERNG course. Setup a MongoDB database and built out GraphQL schema. Reviewed React documentation, it's good to take a step back and remember what's at the core of your stack.
 
 **Thoughts** I may take a little detour from what I've been working on and explore Next.js. Keep hearing good things about it and want to know a little more about it.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 10: November 11th, 2020
+
+**Today's Progress**: Took time today to try out Next.js for the first time. After hearing lots of folks dig it I needed to see what it's about. Love it so far! I went through the well written tutorial to start a simple blog. It's optimized nicely and has nice built in features on top of React. Look forward to doing more with it.
+
+**Thoughts** It's so fun when you try something new and have an awesome experience.
 
 **Link(s) to work**: N/A (for now)
