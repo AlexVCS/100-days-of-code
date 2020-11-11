@@ -69,3 +69,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** MongoDB and GraphQL have been talked about by other developers I know a lot. I'm excited to work with them more in my projects.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 9: November 9th, 2020
+
+**Today's Progress**: Did more of the freeCodeCamp MERNG course. Setup a MongoDB database and built out GraphQL schema. Reviewed React documentation, it's good to take a step back and remember what's at the core of your stack.
+
+**Thoughts** I may take a little detour from what I've been working on and explore Next.js. Keep hearing good things about it and want to know a little more about it.
+
+**Link(s) to work**: N/A (for now)
