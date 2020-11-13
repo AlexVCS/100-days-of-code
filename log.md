@@ -80,8 +80,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 10: November 11th, 2020
 
-**Today's Progress**: Tried out Next.js for the first time. After hearing lots about it I needed to see for myself. Love it so far! I went through the well written tutorial to start a simple blog. It's optimized nicely and has nice built in features on top of React. Look forward to doing more with it. Unforunately my left hand doesn't like all the coding I've been doing it seems. Have to try & minimize the typing with it atm.
+**Today's Progress**: Tried out Next.js for the first time. After hearing lots about it I needed to see for myself. Love it so far! I went through the well written tutorial to start a simple blog. It's optimized nicely and has nice built in features on top of React. Look forward to doing more with it. Unfortunately my left hand doesn't like all the coding I've been doing it seems. Have to try & minimize the typing with it atm.
 
 **Thoughts** It's so fun when you try something new and have an awesome experience.
 
 **Link(s) to work**: https://github.com/AlexVCS/nextjs-blog
+
+### Day 11: November 12th, 2020
+
+**Today's Progress**: Got back to Full Stack Open. Always good to remember the console is your friend! Starting to solve issues with logging to the console first is a game changer. I did that and will work from there. Continued with the Next.js blog too :)
+
+**Thoughts** Little bits of progress seem small but in the big scheme of things mean a lot!
+
+**Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
