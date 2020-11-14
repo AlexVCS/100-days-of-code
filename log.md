@@ -93,3 +93,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Little bits of progress seem small but in the big scheme of things mean a lot!
 
 **Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
+
+### Day 12: November 13th, 2020
+
+**Today's Progress**: More progress with the Next.js blog. See myself using Next to create apps in the future. Looked more at the anecdotes app I've been building, trying to add onto the logic I have, research and programtically problem solve. Booyah!
+
+**Thoughts** No matter how tired I may be I code.
+
+**Link(s) to work**: https://github.com/AlexVCS/nextjs-blog
