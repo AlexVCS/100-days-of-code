@@ -104,7 +104,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 13: November 14th, 2020
 
-**Today's Progress**: Went back to building the shopping list. Deleted a lot of the code I wrote for it and have added in new code. Looked at my React portfolio site, it's looking fine just needs real data instead of mock. For the Next.js blog I created an API route.
+**Today's Progress**: Went back to building the shopping list. Deleted a lot of the code I wrote for it and have added in new code. Looked at my React portfolio, it's looking fine just needs real data instead of mock. For the Next.js blog I created an API route.
 
 **Thoughts** Confidence is key and I need to have confidence in me.
 
