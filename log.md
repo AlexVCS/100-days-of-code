@@ -109,3 +109,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Confidence is key and I need to have confidence in me.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 14: November 15th, 2020
+
+**Today's Progress**: Got on a Code Book Club call. As a group we finished a code wars problem we've been tackling the last few weeks. Then we had a blast solving another problem! Anecdotes app is slowly progressing, I'm using my good ol' buddy the JS console and logging better than I was. More to come on that :)
+
+**Thoughts** Having fun with the coding community makes the whole experience of coding that much more fun.
+
+**Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
