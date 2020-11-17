@@ -117,3 +117,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Having fun with the coding community makes the whole experience of coding that much more fun.
 
 **Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
+
+### Day 15: November 16th, 2020
+
+**Today's Progress**: Anecdotes app is so close to being where I want it. I'm trying different logic and will get it straightened out in the next two days. I deployed my first project to Vercel. Seamless setup no complaints :)
+
+**Thoughts** Sometimes git throws all kinds of fits at me and it's overwhelming lol!
+
+**Link(s) to work**: https://nextjs-blog-sigma-seven-86.vercel.app/
