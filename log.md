@@ -125,3 +125,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Sometimes git throws all kinds of fits at me and it's overwhelming lol!
 
 **Link(s) to work**: https://nextjs-blog-sigma-seven-86.vercel.app/
+
+### Day 16: November 17th, 2020
+
+**Today's Progress**: Shopping list tinkering happened today. Anecdotes app got my attention too and more to come to get it done. Explored learning Node.js some today too. Here's to more code being pushed Wed!
+
+**Thoughts** Today I didn't do as much as much with the actual code and tomorrow I'll do more.
+
+**Link(s) to work**: N/A (for now)
