@@ -133,3 +133,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Today I didn't do as much as much with the actual code and tomorrow I'll do more.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 17: November 18th, 2020
+
+**Today's Progress**: Got the anecdotes app to store the votes! Thanks to Jess for hopping on a chat to code through the problem and optimize the inital solution. Hopped on a Zoom call to learn more about shell script commands. Tried and learned a bunch of new commands :)
+
+**Thoughts** 
+
+**Link(s) to work**: N/A (for now)
