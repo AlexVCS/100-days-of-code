@@ -141,3 +141,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** It's awesome to collaborate with others and work through coding challenges.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 18: November 19th, 2020
+
+**Today's Progress**: Cleaned up code in the anecdotes app. Adding code that will display the anecdote with the most votes soon. Looked at part two of Full Stack Open and am coding along with explanations.
+
+**Thoughts** Consistency makes you so much better at coding!
+
+**Link(s) to work**: N/A (for now)
