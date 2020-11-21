@@ -149,3 +149,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Consistency makes you so much better at coding!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 19: November 20th, 2020
+
+**Today's Progress**: Reading and coding in part 2 of Full Stack Open. Worked on some React exercises on FreeCodeCamp. Also setup more of the MERNG app from FCC's video course. Even when you're tired you've got to bring your best to the keyboard :)
+
+**Thoughts** While it feels like not much code gets written some days, some is always better than none.
+
+**Link(s) to work**: N/A (for now)
