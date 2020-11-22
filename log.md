@@ -157,3 +157,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** While it feels like not much code gets written some days, some is always better than none.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 20: November 21th, 2020
+
+**Today's Progress**: Loving basketball I began creating a new project that I want to use an API with to get info about bball. Found an API, may explore others and display stats and have it look neat. Reviewed about the JS Fetch API and added some JSON data for Full Stack Open.
+
+**Thoughts** It was hard for me to code today but I did.
+
+**Link(s) to work**: N/A (for now)
