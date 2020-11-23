@@ -165,3 +165,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** It was hard for me to code today but I did.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 21: November 22nd, 2020
+
+**Today's Progress**: Was on a Code Book Club call about the YDKJS book. We talked about the values chapter. Funny how 0.1 + 0.2 does not equal 0.3 in JavaScript. It's a great group and there's always new info worth diving into during and after the calls. I worked on Full Stack Open too, trying but still not solving. Not giving up and also looked at the next.js blog I'd like to add a dark mode toggle.
+
+**Thoughts** Community matters.
+
+**Link(s) to work**: N/A (for now)
