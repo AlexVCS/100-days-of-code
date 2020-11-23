@@ -173,3 +173,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Community matters.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 22: November 23rd, 2020
+
+**Today's Progress**: Got the anecdotes app working! Always helps to have someone review your code and advise you in the right direction. This community always amazes. Continued on with the part 2 exercises of Full Stack Open. Got a little further into the MERNG app video from FreeCodeCamp too.
+
+**Thoughts** I'm stoked to keep going and making strides daily :)
+
+**Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
