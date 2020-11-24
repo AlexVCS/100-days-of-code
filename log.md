@@ -181,3 +181,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I'm stoked to keep going and making strides daily :)
 
 **Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
+
+### Day 23: November 24th, 2020
+
+**Today's Progress**: Worked on my vanilla JS shopping list. Lots more to come but when you type in an item it adds it to a ul. For Full Stack Open I'm working on debugging my solution for exercise 2.1 with console.logs.
+
+**Thoughts** DuckDuckGo and VS Code are the main vessels for getting my code right!
+
+**Link(s) to work**: https://github.com/AlexVCS/Shopping-List-Vanilla-JS
