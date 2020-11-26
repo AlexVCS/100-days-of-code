@@ -197,3 +197,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Errors are a pain but when they go away I can see the gains!
 
 **Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
+
+### Day 25: November 26th, 2020
+
+**Today's Progress**: Shopping list works better now. Append an li inside a ul to the DOM. Excited to tinker with it and get more of the behaviors I want out of it. Bit of progress and coding to start the day, now to enjoy Thanksgiving :)
+
+**Thoughts** I love getting functions to work as I'd like them to, it feels great!
+
+**Link(s) to work**: N/A (for now)
