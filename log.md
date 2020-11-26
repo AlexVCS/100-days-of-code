@@ -189,3 +189,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** DuckDuckGo and VS Code are the main vessels for getting my code right!
 
 **Link(s) to work**: https://github.com/AlexVCS/Shopping-List-Vanilla-JS
+
+### Day 24: November 25th, 2020
+
+**Today's Progress**: Keyed in on debugging for Full Stack Open. I know where the problem lies and know I will rectify it soon! Made changes to see if and how that would change the application. Think it got a little better :)
+
+**Thoughts** Errors are a pain but when they go away I can see the gains!
+
+**Link(s) to work**: https://github.com/AlexVCS/Full-stack-open-2020
