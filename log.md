@@ -213,3 +213,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Bugs are my arch nemesis and I will face them head on!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 27: November 28th, 2020
+
+**Today's Progress**: Got further with Full Stack Open! JS map is awesome and I'm glad I got that working. Such an exhilirating feeling to get past the bugs. Went through a bit more of the MERNG app video and learned why PostgreSQL is gaining popularity.
+
+**Thoughts** I can do this I just have to persist despite resistance.
+
+**Link(s) to work**: N/A (for now)
