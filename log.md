@@ -205,3 +205,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I love getting functions to work as I'd like them to, it feels great!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 26: November 27th, 2020
+
+**Today's Progress**: Removed unnecessary code for the shopping list. Baby steps haha but the console is happier now. Working to debug code for Full Stack Open, gotta love & trust the process.
+
+**Thoughts** Bugs are my arch nemesis and I will face them head on!
+
+**Link(s) to work**: N/A (for now)
