@@ -221,3 +221,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I can do this I just have to persist despite resistance.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 28: November 29th, 2020
+
+**Today's Progress**: Hopped on a CodeBookClub call. We worked on a codewars problem and used Regex to solve it! I shared my screen and wrote code based on what we as a group would work best. I continued with Full Stack Open. Oh the ebb and flow of building and breaking your application! Haha. Worked on my shopping list also.
+
+**Thoughts** Always nice to work with other developers.
+
+**Link(s) to work**: N/A (for now)
