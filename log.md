@@ -229,3 +229,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Always nice to work with other developers.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 29: November 30th, 2020
+
+**Today's Progress**: Continuing to work on the shopping list. Have the basic functionality just want to add some layers onto that. Learned a bit of Svelte today. Awesome stuff! It's always astonishing to think about all the different avenues coding can to you down :)
+
+**Thoughts** More to learn than there is time, best to always make time to learn.
+
+**Link(s) to work**: https://github.com/AlexVCS/Shopping-List-Vanilla-JS
