@@ -237,3 +237,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** More to learn than there is time, best to always make time to learn.
 
 **Link(s) to work**: https://github.com/AlexVCS/Shopping-List-Vanilla-JS
+
+### Day 30: December 1st, 2020
+
+**Today's Progress**: Continued learning Svelte. Learned a bit more about Node and explored Tailwind CSS too. Shopping list is still being tinkered with, it's almost there.
+
+**Thoughts** Staying consistent and learning to enjoy what I'm working on more and more are the keys to my success right now.
+
+**Link(s) to work**: N/A (for now)
