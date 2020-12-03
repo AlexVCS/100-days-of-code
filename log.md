@@ -248,7 +248,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 31: December 2nd, 2020
 
-**Today's Progress**: Shopping list refinements are happpening. Gaining clarity on how I'd like it to function. Learned more Node.
+**Today's Progress**: Shopping list refinements are happening. Gaining clarity on how I'd like it to function. Learned more Node.
 
 **Thoughts** I like pushing more code than I did today, but hey I did push some code at least.
 
