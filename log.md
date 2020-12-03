@@ -245,3 +245,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Staying consistent and learning to enjoy what I'm working on more and more are the keys to my success right now.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 31: December 2nd, 2020
+
+**Today's Progress**: Shopping list refinements are happpening. Gaining clarity on how I'd like it to function. Learned more Node.
+
+**Thoughts** I like pushing more code than I did today, but hey I did push some code at least.
+
+**Link(s) to work**: N/A (for now)
