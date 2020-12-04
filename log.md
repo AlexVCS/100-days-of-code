@@ -256,7 +256,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 32: December 3rd, 2020
 
-**Today's Progress**: Changed the layout the for the shopping list items. Made it look more like they're on a notepad. The looks feels more realistic. I like it :)
+**Today's Progress**: Changed the layout for my shopping list items. Made it look more like they're on a notepad. The looks feels more realistic. I like it :)
 
 **Thoughts** It's great when you get great ideas and implement them into projects!
 
