@@ -253,3 +253,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I like pushing more code than I did today, but hey I did push some code at least.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 32: December 3rd, 2020
+
+**Today's Progress**: Changed the layout the for the shopping list items. Made it look more like they're on a notepad. The looks feels more realistic. I like it :)
+
+**Thoughts** It's great when you get great ideas and implement them into projects!
+
+**Link(s) to work**: N/A (for now)
