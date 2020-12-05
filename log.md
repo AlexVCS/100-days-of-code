@@ -261,3 +261,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** It's great when you get great ideas and implement them into projects!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 33: December 4th, 2020
+
+**Today's Progress**: Adjusted my course-info app for Full Stack Open. Got away from the sea of errors and have it rendering. Still need to get everything I need to render however. For the shopping list I changed the styling on a few things as a test.
+
+**Thoughts** Coding everyday like my keyboard is a hot spring.
+
+**Link(s) to work**: N/A (for now)
