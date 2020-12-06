@@ -269,3 +269,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coding everyday like my keyboard is a hot spring.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 34: December 5th, 2020
+
+**Today's Progress**: Worked on JS algorithms a bit on FreeCodeCamp. For Full Stack Open, I am debugging a map function. Looked into open source contributions and hope to make many!
+
+**Thoughts** Even on hard days I code and that's great.
+
+**Link(s) to work**: N/A (for now)
