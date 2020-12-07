@@ -277,3 +277,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Even on hard days I code and that's great.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 35: December 6th, 2020
+
+**Today's Progress**: Began setting up a phonebook app for Full Stack Open. Got on a Code Book Club call about the YDKJS book. Always a blast to learn with others and still have community even in 2020!
+
+**Thoughts** A little code each day goes a long way.
+
+**Link(s) to work**: N/A (for now)
