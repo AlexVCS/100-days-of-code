@@ -288,7 +288,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 36: December 7th, 2020
 
-**Today's Progress**: Worked on the way items are spaced out when they're added to the shopping list . The header is flowing better with different viewports too. Got on codedamn as directed from a FreeCodeCamp article. Worked on a bit of React inside one of their classroooms. 
+**Today's Progress**: Worked on the way items are spaced out when they're added to the shopping list. The header is flowing better with different viewports too. Got on codedamn as directed from a FreeCodeCamp article. Worked on a bit of React inside one of their classroooms. 
 
 **Thoughts** Keep at it, that's what counts.
 
