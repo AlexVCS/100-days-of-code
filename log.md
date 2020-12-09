@@ -293,3 +293,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keep at it, that's what counts.
 
 **Link(s) to work**: https://github.com/AlexVCS/Shopping-List-Vanilla-JS
+
+### Day 37: December 8th, 2020
+
+**Today's Progress**: Continuing to test out ways to render all the content for my course-info app. Started a simple Svelte app, poked around on it and hope to get more used to Svelte in time. Slow but steady progress.
+
+**Thoughts** Above all code and leave as much else to be as possible.
+
+**Link(s) to work**: N/A (for now)
