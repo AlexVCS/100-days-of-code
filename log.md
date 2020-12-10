@@ -301,3 +301,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Above all code and leave as much else to be as possible.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 38: December 9th, 2020
+
+**Today's Progress**: Created another map function and have more content rendering on my course-info app! Seeing more of what you've been trying to render when coding is quite the dopamine rush! Added more content to my Svelte app. Cool to use that as a little Svelte playground ;)
+
+**Thoughts** I be coding everyday and I there's no end in sight.
+
+**Link(s) to work**: N/A (for now)
