@@ -309,3 +309,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I be coding everyday and I there's no end in sight.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 39: December 10th, 2020
+
+**Today's Progress**: Made more improvements to my course-info app. Got on a call with my friend Jess. He looked at my code and made helpful suggestions. Getting another set of eyes on your code can help big time when you aren't clear on how to move forward. Make notes to reference and seek out code reviews as needed.
+
+**Thoughts** The coding community is outstanding.
+
+**Link(s) to work**: N/A (for now)
