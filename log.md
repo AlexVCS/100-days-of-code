@@ -317,3 +317,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** The coding community is outstanding.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 40: December 11th, 2020
+
+**Today's Progress**: Separated components into another module for course-info. Took a bit but got it imported and working seamlessly. Read up on adding dark mode in Next.js and Gatsby. Continued to the next part of Full Stack Open and building a phonebook app.
+
+**Thoughts** Getting further feels good and being consistent is making a difference.
+
+**Link(s) to work**: N/A (for now)
