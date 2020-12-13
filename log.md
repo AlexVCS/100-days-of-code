@@ -325,3 +325,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Getting further feels good and being consistent is making a difference.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 41: December 12th, 2020
+
+**Today's Progress**: Using and learning about Axios. I promise it'll make a difference in my codebase ;) Can tell familiarity with Axios is important as it's widely used (and easy to use).
+
+**Thoughts** As long as I code I know I make strides.
+
+**Link(s) to work**: N/A (for now)
