@@ -333,3 +333,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** As long as I code I know I make strides.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 42: December 13th, 2020
+
+**Today's Progress**: Took part in a Code Book Club call. We worked on a challenge from the Advent of Code day 7. First time looking more at one these and it was intricate! Worked more on FSO, excited to get back to coding in the morning which is when I work best :)
+
+**Thoughts** Coding in the morning works best for me.
+
+**Link(s) to work**: N/A (for now)
