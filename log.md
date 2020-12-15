@@ -341,3 +341,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coding in the morning works best for me.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 43: December 14th, 2020
+
+**Today's Progress**: Working on the phonebook for FSO. Added a function that stores the name being written in the input field. Wrote filter and map functions to try and add that name underneath the numbers header but the functionality isn't there just yet. Need to refactor. Began familiarizing myself with a React app that uses Typescript.
+
+**Thoughts** Coded earlier in the day and got a lot more done.
+
+**Link(s) to work**: N/A (for now)
