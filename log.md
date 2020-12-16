@@ -349,3 +349,19 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coded earlier in the day and got a lot more done.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 43: December 14th, 2020
+
+**Today's Progress**: Working on the phonebook for FSO. Added a function that stores the name being written in the input field. Wrote filter and map functions to try and add that name underneath the numbers header but the functionality isn't there just yet. Need to refactor. Began familiarizing myself with a React app that uses Typescript.
+
+**Thoughts** Coded earlier in the day and got a lot more done.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 44: December 15th, 2020
+
+**Today's Progress**: Continued with the phonebook. Making changes to the functions I wrote yesteday and setting up files for future separation. Learned more about Typescipt in a React app.
+
+**Thoughts** Crazy day but I was still coding.
+
+**Link(s) to work**: N/A (for now)
