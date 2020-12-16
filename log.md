@@ -360,7 +360,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 44: December 15th, 2020
 
-**Today's Progress**: Continued with the phonebook. Making changes to the functions I wrote yesterday and setting up files for future separation. Learned more about Typescipt in a React app.
+**Today's Progress**: Continued with the phonebook. Making changes to the functions I wrote yesterday and setting up files for future separation. Learned more about Typescript in a React app.
 
 **Thoughts** Crazy day but I was still coding.
 
