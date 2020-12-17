@@ -365,3 +365,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Crazy day but I was still coding.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 45: December 16th, 2020
+
+**Today's Progress**: Still working on the phonebook. Signed up to practice interviewing with Pramp. Excited to work on frontend focused questions! Coding is what developers do but learning how to interview and communicate clearly is another key piece to the puzzle.
+
+**Thoughts** I'd like to improve my programmatic problem solving.
+
+**Link(s) to work**: N/A (for now)
