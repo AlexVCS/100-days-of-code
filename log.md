@@ -373,3 +373,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I'd like to improve my programmatic problem solving.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 46: December 17th, 2020
+
+**Today's Progress**: Tried out Redux exercises on FreeCodeCamp. Continued with the phonebook app. Trying to keep the streak alive. Consistency is so important. 
+
+**Thoughts** Some days are hard to code but coding through it is the best way to make dreams a reality.
+
+**Link(s) to work**: N/A (for now)
