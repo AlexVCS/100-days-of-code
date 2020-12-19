@@ -384,7 +384,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 47: December 18th, 2020
 
-**Today's Progress**: Started a new project about mangoes. I'll include info about some of my favorite varities and style it using Tailwind CSS. Will make it have slideshow controls to go forward and backward. Going with vanilla JS to start and may build it out differently later. Tinkered with the phonebook more too. 
+**Today's Progress**: Started a new project about mangoes. I'll include info about some of my favorite varieties and style it using Tailwind CSS. Will make it have slideshow controls to go forward and backward. Going with vanilla JS to start and may build it out differently later. Tinkered with the phonebook more too.
 
 **Thoughts** Excited to keep coding and improving.
 
