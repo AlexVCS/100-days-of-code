@@ -381,3 +381,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Some days are hard to code but coding through it is the best way to make dreams a reality.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 47: December 18th, 2020
+
+**Today's Progress**: Started a new project about mangoes. I'll include info about some of my favorite varities and style it using Tailwind CSS. Will make it have slideshow controls to go forward and backward. Going with vanilla JS to start and may build it out differently later. Tinkered with the phonebook more too. 
+
+**Thoughts** Excited to keep coding and improving.
+
+**Link(s) to work**: https://github.com/AlexVCS/Mango-Project
