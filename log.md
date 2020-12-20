@@ -389,3 +389,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Excited to keep coding and improving.
 
 **Link(s) to work**: https://github.com/AlexVCS/Mango-Project
+
+### Day 48: December 19th, 2020
+
+**Today's Progress**: Added buttons to the mango app. Starting to write out JS. Early stages but it's happening. Using Tailwind it's nice to just stay in one file when styling for the most part. Easier than jumping from HTML to SCSS or from JS when working with React.
+
+**Thoughts** Time to take this mango project to the next level.
+
+**Link(s) to work**: N/A (for now)
