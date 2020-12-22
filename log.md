@@ -408,7 +408,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 50: December 21th, 2020
 
-**Today's Progress**: Worked more on the mango and phonebook projects. Have the persons name being added, more to come. Did some SASS exercises on Free Code Camp. Good review :)
+**Today's Progress**: Worked more on the mango and phonebook projects. Have the person's name being added, more to come. Did some SASS exercises on Free Code Camp. Good review :)
 
 **Thoughts** Not too shabby today, half way to 100. Stoked to keep going and learning!
 
