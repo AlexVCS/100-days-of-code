@@ -397,3 +397,19 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Time to take this mango project to the next level.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 49: December 20th, 2020
+
+**Today's Progress**: Created an array that has all the mango information I want to display for my app. Began to write a map function to display it to the page. Got on a Code Book Club call. We started the call talking about a chapter from the YDKJS book. It was about coercion. We did a quiz as a group and discussed the chapter a bit. Then we got returned to solving the advent of code challenge from last week. We still haven't finished but saw amazing strides made by our coder Amanda in particular. She is working diligently to solve the problem. Others are chiming in too of course.
+
+**Thoughts** Lots of coding today!
+
+**Link(s) to work**: N/A (for now)
+
+### Day 50: December 21th, 2020
+
+**Today's Progress**: Worked more on the mango and phonebook projects. Have the persons name being added, more to come. Did some SASS exercises on Free Code Camp. Good review :)
+
+**Thoughts** Not too shabby today, half way to 100. Stoked to keep going and learning!
+
+**Link(s) to work**: N/A (for now)
