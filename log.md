@@ -414,10 +414,18 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 **Link(s) to work**: N/A (for now)
 
-### Day 51: December 21th, 2020
+### Day 51: December 22nd, 2020
 
 **Today's Progress**: Talked with my friend who works as a developer. He gave me great tips that I'll use for sure! With that conversation in mind I am continuing with my mango project. I'll make it in React so I started that transition process.
 
 **Thoughts** Tired but I still coded :)
+
+**Link(s) to work**: N/A (for now)
+
+### Day 52: December 23rd, 2020
+
+**Today's Progress**: Added styles to the mango project. Reviewed SASS more on FreeCodeCamp. Seeing once again how powerful it is. Looked at the phonebook app a bit.
+
+**Thoughts** Need to code earlier in the day again!
 
 **Link(s) to work**: N/A (for now)
