@@ -429,3 +429,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Need to code earlier in the day again!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 53: December 24th, 2020
+
+**Today's Progress**: Deployed the mango app to Netlify. More changes are coming but it's nice to give it a home online. Finished the SASS section on FreeCodeCamp. Happy coding holidays :)
+
+**Thoughts** Keep it going, keep it going :)
+
+**Link(s) to work**: N/A (for now)
