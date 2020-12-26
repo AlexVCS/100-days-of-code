@@ -20,7 +20,6 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 **Link(s) to work**: N/A (for now)
 
-
 ### Day 3: November 4th, 2020
 
 **Today's Progress**: This morning I worked on learning 2 generate a random # w/JS. Still need 2 work more with that. I looked at my React shopping list and remembered @RandallKanna
@@ -288,7 +287,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 36: December 7th, 2020
 
-**Today's Progress**: Worked on the way items are spaced out when they're added to the shopping list. The header is flowing better with different viewports too. Got on codedamn as directed from a FreeCodeCamp article. Worked on a bit of React inside one of their classrooms. 
+**Today's Progress**: Worked on the way items are spaced out when they're added to the shopping list. The header is flowing better with different viewports too. Got on codedamn as directed from a FreeCodeCamp article. Worked on a bit of React inside one of their classrooms.
 
 **Thoughts** Keep at it, that's what counts.
 
@@ -376,7 +375,7 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 46: December 17th, 2020
 
-**Today's Progress**: Tried out Redux exercises on FreeCodeCamp. Continued with the phonebook app. Trying to keep the streak alive. Consistency is so important. 
+**Today's Progress**: Tried out Redux exercises on FreeCodeCamp. Continued with the phonebook app. Trying to keep the streak alive. Consistency is so important.
 
 **Thoughts** Some days are hard to code but coding through it is the best way to make dreams a reality.
 
@@ -435,5 +434,13 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Today's Progress**: Deployed the mango app to Netlify. More changes are coming but it's nice to give it a home online. Finished the SASS section on FreeCodeCamp. Happy coding holidays :)
 
 **Thoughts** Keep it going, keep it going :)
+
+**Link(s) to work**: N/A (for now)
+
+### Day 54: December 25th, 2020
+
+**Today's Progress**: Worked on FreeCodeCamp's Regex exercises. Fun to dig into those more! Still churning on the mango app, it's ready to be spun into a neat application. It's for fun but I hope anyone who gives it a look learns too.
+
+**Thoughts** Coding through the end of the year and beyond!
 
 **Link(s) to work**: N/A (for now)
