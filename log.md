@@ -444,3 +444,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coding through the end of the year and beyond!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 55: December 26th, 2020
+
+**Today's Progress**: Mango app is looking much better! Have the array on info loading and working with forward and backward arrows. Need to get some of the styling finalized and the app will be complete :)
+
+**Thoughts** Feels so amazing to make progress!
+
+**Link(s) to work**: N/A (for now)
