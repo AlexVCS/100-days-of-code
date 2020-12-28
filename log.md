@@ -452,3 +452,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Feels so amazing to make progress!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 56: December 27th, 2020
+
+**Today's Progress**: Worked on the mango app CSS. Got the images to be the same size and become smaller for mobile. Made the width of the descriptions match the images. Considered which project to work on next and have a good one in mind!
+
+**Thoughts** Community and like minded people are hugely important to keeping you balanced and allowing you to be your best self.
+
+**Link(s) to work**: N/A (for now)
