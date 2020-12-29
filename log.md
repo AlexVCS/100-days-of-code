@@ -460,3 +460,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Community and like minded people are hugely important to keeping you balanced and allowing you to be your best self.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 57: December 28th, 2020
+
+**Today's Progress**: Got on a call with a couple others to plan out a new project we'll work on individually. Making a Mad Libzz app with React! Found an API for it and am getting started on that. Mango app is done :)
+
+**Thoughts** This new project will be fun I like Mad Libs.
+
+**Link(s) to work**: N/A (for now)
