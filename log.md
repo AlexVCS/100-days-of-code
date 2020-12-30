@@ -463,8 +463,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 57: December 28th, 2020
 
-**Today's Progress**: Got on a call with a couple others to plan out a new project we'll work on individually. Making a Mad Libzz app with React! Found an API for it and am getting started on that. Mango app is done :)
+**Today's Progress**: Got on a call with a couple others to plan out a new project we'll work on individually. Making a Mad Libzz game with React! Found an API for it and am getting started on that. Mango app is done :)
 
 **Thoughts** This new project will be fun I like Mad Libs.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 58: December 29th, 2020
+
+**Today's Progress**: Created my useEffect call to the Mad Libz api. Got my response and will work on building out what that will display. Worked on regex exercises on FreeCodeCamp.
+
+**Thoughts** Everyday I'm getting better.
 
 **Link(s) to work**: N/A (for now)
