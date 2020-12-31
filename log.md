@@ -476,3 +476,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Everyday I'm getting better.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 59: December 30th, 2020
+
+**Today's Progress**: Setup more of the mad libzz project. Added useState and am testing out what the map function will render. Did more Regex on FreeCodeCamp.
+
+**Thoughts** Consistency is what gets results.
+
+**Link(s) to work**: N/A (for now)
