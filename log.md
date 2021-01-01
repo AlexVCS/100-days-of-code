@@ -484,3 +484,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Consistency is what gets results.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 60: December 31st, 2020
+
+**Today's Progress**: Kept going with mad libzz game. Looked at lots of example of async await fetch api calls. Excited to chat with a couple other people working on it themselves tomorrow. Learned more about React server components. More regex on FreeCodeCamp.
+
+**Thoughts** I am coding despite it being NYE. Nice
+
+**Link(s) to work**: N/A (for now)
