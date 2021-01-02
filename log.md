@@ -487,8 +487,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 60: December 31st, 2020
 
-**Today's Progress**: Kept going with mad libzz game. Looked at lots of example of async await fetch api calls. Excited to chat with a couple other people working on it themselves tomorrow. Learned more about React server components. More regex on FreeCodeCamp.
+**Today's Progress**: Kept going with the mad libzz game. Looked at lots of example of async await fetch api calls. Excited to chat with a couple other people working on it themselves tomorrow. Learned more about React server components. More regex on FreeCodeCamp.
 
 **Thoughts** I am coding despite it being NYE. Nice
+
+**Link(s) to work**: N/A (for now)
+
+### Day 61: January 1st, 2021
+
+**Today's Progress**: Got the beginnings of the mad libzz app rendering. Always remember to really read over your code. Had an extra s when I was setting data equal to a state variable. Made everything wonky. Double check your code, you'll be glad you did.
+
+**Thoughts** Coding through the bugs like an exterminator :)
 
 **Link(s) to work**: N/A (for now)
