@@ -500,3 +500,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coding through the bugs like an exterminator :)
 
 **Link(s) to work**: N/A (for now)
+
+### Day 62: January 2nd, 2021
+
+**Today's Progress**: Styled the mad-libzz game a bit. Add a header and figured out what background I'd like, etc. Looks a little better and the next task it to add more functionality. Close to finishing the regex exercises on FreeCodeCamp.
+
+**Thoughts** Mad Libzz game is going to be cool. Do you even API bro?
+
+**Link(s) to work**: N/A (for now)
