@@ -503,8 +503,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 62: January 2nd, 2021
 
-**Today's Progress**: Styled the mad-libzz game a bit. Add a header and figured out what background I'd like, etc. Looks a little better and the next task it to add more functionality. Close to finishing the regex exercises on FreeCodeCamp.
+**Today's Progress**: Styled the mad-libzz game a bit. Add a header and figured out what background I'd like, etc. Looks a little better and the next task is to add more functionality. Close to finishing the regex exercises on FreeCodeCamp.
 
 **Thoughts** Mad Libzz game is going to be cool. Do you even API bro?
+
+**Link(s) to work**: N/A (for now)
+
+### Day 63: January 3rd, 2021
+
+**Today's Progress**: Worked on the phonebook app a bit. Changing an if else statement and still need to work on the implementation. Got on a Code Book Club call. We talked about the YDKJS then finished going over an Advent of Code challenge!
+
+**Thoughts** Not a bad week, but next week I'm excited to push even more code ;)
 
 **Link(s) to work**: N/A (for now)
