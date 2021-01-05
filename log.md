@@ -516,3 +516,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Not a bad week, but next week I'm excited to push even more code ;)
 
 **Link(s) to work**: N/A (for now)
+
+### Day 64: January 4th, 2021
+
+**Today's Progress**: Had a call with friends who are working on the Mad Libzz game. We worked together and made key updates to a friends game and mine. Now we are storing input updates in state. Next step is to put the inputs into a story!
+
+**Thoughts** Coding with others and having multiple people offer ideas is awesome :)
+
+**Link(s) to work**: N/A (for now)
