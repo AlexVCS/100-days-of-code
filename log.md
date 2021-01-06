@@ -524,3 +524,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Coding with others and having multiple people offer ideas is awesome :)
 
 **Link(s) to work**: N/A (for now)
+
+### Day 65: January 5th, 2021
+
+**Today's Progress**: Wrote a bit of code that will make the Mad Libzz game better in the end. An alert if the user doesn't fill in all the blanks, a new game button that will come up with the finished story and the first bits of the renderStory function.
+
+**Thoughts** Tired, so tired, but I still got on and wrote code.
+
+**Link(s) to work**: N/A (for now)
