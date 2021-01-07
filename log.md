@@ -532,3 +532,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Tired, so tired, but I still got on and wrote code.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 66: January 6th, 2021
+
+**Today's Progress**: Wrote more logic for the Mad Libzz game. Worked on JS regex on FreeCodeCamp, almost finished ::)
+
+**Thoughts** I am going to code and be more productive tomorrow.
+
+**Link(s) to work**: N/A (for now)
