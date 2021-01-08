@@ -535,8 +535,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 66: January 6th, 2021
 
-**Today's Progress**: Wrote more logic for the Mad Libzz game. Worked on JS regex on FreeCodeCamp, almost finished ::)
+**Today's Progress**: Wrote more logic for the Mad Libzz game. Worked on JS regex on FreeCodeCamp, almost finished :)
 
 **Thoughts** I am going to code and be more productive tomorrow.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 67: January 7th, 2021
+
+**Today's Progress**: Finished regex exercises on FreeCodeCamp! Started & finished the JS debugging section and started the basic data structures exercises. Worked on Mad Libzz game-will continue to write logic to render out the story.
+
+**Thoughts** Better focus today, time to build on this more.
 
 **Link(s) to work**: N/A (for now)
