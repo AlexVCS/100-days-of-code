@@ -543,8 +543,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 67: January 7th, 2021
 
-**Today's Progress**: Finished regex exercises on FreeCodeCamp! Started & finished the JS debugging section and started the basic data structures exercises. Worked on Mad Libzz game-will continue to write logic to render out the story.
+**Today's Progress**: Finished regex exercises on FreeCodeCamp! Started & finished the JS debugging section and started the basic data structures exercises. Worked on the Mad Libzz game-will continue to write logic to render out the story.
 
 **Thoughts** Better focus today, time to build on this more.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 68: January 8th, 2021
+
+**Today's Progress**: Made changes to the phonebook app. Continued with basic data structures on FreeCodeCamp.
+
+**Thoughts** Staying consistent is fantastic.
 
 **Link(s) to work**: N/A (for now)
