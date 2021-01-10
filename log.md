@@ -556,3 +556,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Staying consistent is fantastic.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 69: January 9th, 2021
+
+**Today's Progress**: Made strides on my mad libzz and phonebook apps. I'm conditionally rendering the blanks and upon clicking submit the story renders with what the user typed in the blanks. The phonebook now gives you an alert if you try to add an already existing name and accepts phone numbers in addition to name.
+
+**Thoughts** Love days when I make big stries-time to keep up the momentum!
+
+**Link(s) to work**: N/A (for now)
