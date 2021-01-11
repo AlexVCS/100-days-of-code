@@ -564,3 +564,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Love days when I make big stries-time to keep up the momentum!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 70: January 10th, 2021
+
+**Today's Progress**: Jumped on a Code Book Club call. We solved a code wars problem. Using JS we were given three numbers and needed to write code to break them up (750 to 700 + 50, for example). Psuedo code helps us hash out our ideas and then implement them step by step. Made changes to the Mad Libzz app and have a new bug to figure out!
+
+**Thoughts** Not a bad week for coding. Not bad at all!
+
+**Link(s) to work**: N/A (for now)
