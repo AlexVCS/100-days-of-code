@@ -572,3 +572,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Not a bad week for coding. Not bad at all!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 71: January 11th, 2021
+
+**Today's Progress**: Added more styling for the Mad Libzz game. Still needs additional changes but the alignment of the inputs and word types is better! Got on a call with friends and we went over some key JS concepts. What are the types in JS, differences between arrays and objects, common array methods and more :)
+
+**Thoughts** Keeping the flow going and not stopping.
+
+**Link(s) to work**: N/A (for now)
