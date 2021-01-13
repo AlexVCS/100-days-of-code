@@ -580,3 +580,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keeping the flow going and not stopping.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 72: January 12th, 2021
+
+**Today's Progress**: Made more CSS changes to Mad Libzz. Working on logic to conditionally render submit button before the story is shown and new game button once the story is rendered. It's coming together.
+
+**Thoughts** I'm in love with the code code!
+
+**Link(s) to work**: N/A (for now)
