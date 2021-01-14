@@ -588,3 +588,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I'm in love with the code code!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 73: January 13th, 2021
+
+**Today's Progress**: Got my button text conditionally rendering for the Mad Libzz game. Trying to work on having the new game button properly bring you to a new game. It's making a new API call, but not giving the user a chance to enter in new nouns, etc. That will be fixed soon though.
+
+**Thoughts** Working through the bugs and getting rid of them bit by bit.
+
+**Link(s) to work**: N/A (for now)
