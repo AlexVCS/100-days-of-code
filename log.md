@@ -596,3 +596,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Working through the bugs and getting rid of them bit by bit.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 74: January 14th, 2021
+
+**Today's Progress**: The new game button in Mad Libzz works perfectly now! Needed one bit of additional code in my API call. Cleaning up the code and will work on validation tomorrow.
+
+**Thoughts** Mad Libzz is almost complete :)
+
+**Link(s) to work**: N/A (for now)
