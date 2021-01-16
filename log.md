@@ -604,3 +604,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Mad Libzz is almost complete :)
 
 **Link(s) to work**: N/A (for now)
+
+### Day 75: January 15th, 2021
+
+**Today's Progress**: Trying out logic to add validation to Mad Libzz. Need to get that working properly. Made a smart change so when you start a new game it clears the input state from the previous game.
+
+**Thoughts** Time for a nice weekend :)
+
+**Link(s) to work**: N/A (for now)
