@@ -612,3 +612,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Time for a nice weekend :)
 
 **Link(s) to work**: N/A (for now)
+
+### Day 76: January 16th, 2021
+
+**Today's Progress**: Worked on FreeCodeCamp exericses in basic data structures in JS. I implemented logic with bracket and dot notation, nested arrays within arrays, and returned data from arrays using multiple methods (among other things!). Read a chapter of the YDKJS book to cap it all off.
+
+**Thoughts** Back tomorrow for another one!
+
+**Link(s) to work**: N/A (for now)
