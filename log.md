@@ -615,8 +615,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 76: January 16th, 2021
 
-**Today's Progress**: Worked on FreeCodeCamp exericses in basic data structures in JS. I implemented logic with bracket and dot notation, nested arrays within arrays, and returned data from arrays using multiple methods (among other things!). Read a chapter of the YDKJS book to cap it all off.
+**Today's Progress**: Worked on FreeCodeCamp exercises in basic data structures in JS. I implemented logic with bracket and dot notation, nested arrays within arrays, and returned data from arrays using multiple methods (among other things!). Read a chapter of the YDKJS book to cap it all off.
 
 **Thoughts** Back tomorrow for another one!
+
+**Link(s) to work**: N/A (for now)
+
+### Day 77: January 17th, 2021
+
+**Today's Progress**: On todays CodeBookClub call we talked about an appendix from YDKJS & solved a Codewars problem. The problem was part two of the problem we conquered part one of last week. It was neat to solve this part differently (w/Math.pow, etc.) and help ourselves with our solution from part one. Mad Libzz game is organized and churning along too.
+
+**Thoughts** I'm going to keep it going!
 
 **Link(s) to work**: N/A (for now)
