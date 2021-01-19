@@ -628,3 +628,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I'm going to keep it going!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 78: January 18th, 2021
+
+**Today's Progress**: Made more changes to Mad Libzz. Experimenting with validation logic. Jumped on FreeCodeCamp and continued with basic data structures. Almost done with that section :)
+
+**Thoughts** I wanna get validation working tomorrow.
+
+**Link(s) to work**: https://madlibzz.netlify.app/
