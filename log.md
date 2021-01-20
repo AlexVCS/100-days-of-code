@@ -636,3 +636,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** I wanna get validation working tomorrow.
 
 **Link(s) to work**: https://madlibzz.netlify.app/
+
+### Day 79: January 19th, 2021
+
+**Today's Progress**: Worked on phonebook and Mad Libzz apps. Started outlining my next project. I'm excited to work with the balldontlie API! It looks awesome and it'll be extra fun integrating two things I love: basketball and coding!
+
+**Thoughts** Keep going and don't stop!
+
+**Link(s) to work**: N/A (for now)
