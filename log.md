@@ -644,3 +644,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keep going and don't stop!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 80: January 20th, 2021
+
+**Today's Progress**: Worked on FreeCodeCamp exercises. Trying code for validation in my project, need to be more daring haha.
+
+**Thoughts** Not all that productive but the effort was there.
+
+**Link(s) to work**: N/A (for now)
