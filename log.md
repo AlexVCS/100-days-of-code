@@ -652,3 +652,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Not all that productive but the effort was there.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 81: January 21th, 2021
+
+**Today's Progress**: Got on a call with other folks working on their Mad Libzz. We gave each other pointers and rewrote a friends code, all while learning the best approaches for validation. I'm applying those ideas to my project and worked on freeCodeCamp exercises too.
+
+**Thoughts** No zero days.
+
+**Link(s) to work**: N/A (for now)
