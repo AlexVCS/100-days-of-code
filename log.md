@@ -655,8 +655,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 81: January 21th, 2021
 
-**Today's Progress**: Got on a call with other folks working on their Mad Libzz. We gave each other pointers and rewrote a friends code, all while learning the best approaches for validation. I'm applying those ideas to my project and worked on freeCodeCamp exercises too.
+**Today's Progress**: Got on a call with other folks working on Mad Libzz. We gave each other pointers and rewrote a friends code, all while learning the best approaches for validation. I'm applying those ideas to my project and worked on freeCodeCamp exercises too.
 
 **Thoughts** No zero days.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 82: January 22nd, 2021
+
+**Today's Progress**: Made style changes to Mad Libzz. The header has a background that matches the submit and new game buttons. Made the font bigger and am not done making it look better yet!
+
+**Thoughts** Keep it up and don't let the well run dry.
 
 **Link(s) to work**: N/A (for now)
