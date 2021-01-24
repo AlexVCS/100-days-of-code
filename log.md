@@ -668,3 +668,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keep it up and don't let the well run dry.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 83: January 23rd, 2021
+
+**Today's Progress**: Added game instructions to Mad Libzz and changed the page title. Worked on freeCodeCamp object oriented programming exercises.
+
+**Thoughts** Don't stop, code and don't stop.
+
+**Link(s) to work**: N/A (for now)
