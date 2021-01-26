@@ -676,3 +676,19 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Don't stop, code and don't stop.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 84: January 24th, 2021
+
+**Today's Progress**: Filled in as a host for the Code Book Club. We were able to solve two code wars problems! Each one was 6kyu. We did a nice job of writing psuedo code and had multiple people contributing to our solutions. I also hopped on freeCodeCamp exercises ;)
+
+**Thoughts** Waffles and tangerine juice.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 85: January 25th, 2021
+
+**Today's Progress**: Got on a call with friends working on Mad Libzz. We talked about conditional rendering, validation and showed examples of each concept. Made a simple change in my app-switched a ternary to an &&. I've been assigned a separate validation assignment to help solidify those concepts.
+
+**Thoughts** It always gets better.
+
+**Link(s) to work**: N/A (for now)
