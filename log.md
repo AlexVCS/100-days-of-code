@@ -692,3 +692,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** It always gets better.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 86: January 26th, 2021
+
+**Today's Progress**: Finished object oriented exercises on freeCodeCamp. Learning the basics of Go. I've heard Go can be a great language to use in many ways. Excited to learn more about it (and build stuff)! Working on validation side proj as well.
+
+**Thoughts** Food is good and coding is sweet too. ha!
+
+**Link(s) to work**: N/A (for now)
