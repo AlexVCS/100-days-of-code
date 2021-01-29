@@ -700,3 +700,19 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Food is good and coding is sweet too. ha!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 87: January 27th, 2021
+
+**Today's Progress**: Built a simple Go project. It's speedy and easy to setup which is cool. What I wrote following a guide prints and reverses strings. A fine way to start with more learning to come. Going to dig into React projects more tomorrow. Made small changes in the meantime.
+
+**Thoughts** I'm keeping it rolling like a semi truck going from Lakeland to Tampa.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 88: January 28th, 2021
+
+**Today's Progress**: Got on a call with a friend. He helped me finish an example validation project. Now I need to recreate it while looking at the original as little as possible. Great to see how each piece makes it work. The coding community is incredibly giving, glad to be part of it!
+
+**Thoughts** Keep going and don't stop dog.
+
+**Link(s) to work**: N/A (for now)
