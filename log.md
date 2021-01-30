@@ -716,3 +716,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keep going and don't stop dog.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 89: January 29th, 2021
+
+**Today's Progress**: Worked on my validation example project. Have it almost perfect and starting to feel better about what was giving me trouble. That's always a good feeling. Keep hacking away at what you don't get initially-you'll come around and impress yourself with time!
+
+**Thoughts** Tired but the effort was there.
+
+**Link(s) to work**: N/A (for now)
