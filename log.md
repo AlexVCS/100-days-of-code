@@ -724,3 +724,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Tired but the effort was there.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 90: January 30th, 2021
+
+**Today's Progress**: Got the validation example ironed out. Probably going to give it another whirl to really get the hang of it! Got on freeCodeCamp and did D3 exercises. D3 is neat!
+
+**Thoughts** Keep it up just ten more days til 100 days!
+
+**Link(s) to work**: N/A (for now)
