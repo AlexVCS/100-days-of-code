@@ -732,3 +732,27 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Keep it up just ten more days til 100 days!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 91: January 31st, 2021
+
+**Today's Progress**: On today's Code Book Club call we discussed the YDKJS chapter and did a coding problem. This chapter of the book is really important. It talks about performance! On code wars we tackled a problem called Pack Some Chocolates. Our code wasn't the most concise, but at least it was readable and got the job done.
+
+**Thoughts** Keep it up just ten more days til 100 days!
+
+**Link(s) to work**: N/A (for now)
+
+### Day 92: February 1st, 2021
+
+**Today's Progress**: Began working on another validation example. Removed old code from Mad Libzz. Found out the dark mode in my browser was making it impossible to pass a freeCodeCamp exercise! Haha and worked on D3 on FCC and JSON stuff too :)
+
+**Thoughts** I whip my code back and forth.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 93: February 2nd, 2021
+
+**Today's Progress**: Got that validation example done. Looking at Mad Libzz to apply what I've learned. Beggining to make changes. Started a Go Crash Course from Traversy Media. It's a great way to learn more of Golang's basic structure and further ingrain fundamentals I've picked up.
+
+**Thoughts** Gotta go(lang)!
+
+**Link(s) to work**: N/A (for now)
