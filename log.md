@@ -751,8 +751,24 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 93: February 2nd, 2021
 
-**Today's Progress**: Got that validation example done. Looking at Mad Libzz to apply what I've learned. Beggining to make changes. Started a Go Crash Course from Traversy Media. It's a great way to learn more of Golang's basic structure and further ingrain fundamentals I've picked up.
+**Today's Progress**: Got that validation example done. Looking at Mad Libzz to apply what I've learned. Begining to make changes. Started a Go Crash Course from Traversy Media. It's a great way to learn more of Golang's basic structure and further ingrain fundamentals I've picked up.
 
 **Thoughts** Gotta go(lang)!
+
+**Link(s) to work**: N/A (for now)
+
+### Day 94: February 3rd, 2021
+
+**Today's Progress**: Got on a call with friends to discuss React validation with arrays. We took code I wrote that had state variables set to empty strings and conditionally rendered errors and rewrote them as array based state variables + errors. It was a good way for me to see the difference in how those are written (now to recreate it on my own). Continued the Go Crash Course.
+
+**Thoughts** Keep it going and do yo best dawg.
+
+**Link(s) to work**: N/A (for now)
+
+### Day 95: February 4th, 2021
+
+**Today's Progress**: Began building my new React form. Hopped on freeCodeCamp and finished the ES6 exericses. It's nice to go back to fundamentals every now and again.
+
+**Thoughts** Tired but I'm out here coding like I do everyday!
 
 **Link(s) to work**: N/A (for now)
