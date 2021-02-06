@@ -767,7 +767,15 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 95: February 4th, 2021
 
-**Today's Progress**: Began building my new React form. Hopped on freeCodeCamp and finished the ES6 exericses. It's nice to go back to fundamentals every now and again.
+**Today's Progress**: Began building my new React form. Hopped on freeCodeCamp and finished the ES6 exercises. It's nice to go back to fundamentals every now and again.
+
+**Thoughts** Tired but I'm out here coding like I do everyday!
+
+**Link(s) to work**: N/A (for now)
+
+### Day 96: February 5th, 2021
+
+**Today's Progress**: Built even more of my React form. Approaching it different and thinking through each step more thorougly. Juxtaposing what I'm writing with Mad Libzz to see the lessons I can bring over from the form. Worked on freeCodeCamp encore ;)
 
 **Thoughts** Tired but I'm out here coding like I do everyday!
 
