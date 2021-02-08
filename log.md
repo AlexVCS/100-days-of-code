@@ -788,3 +788,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** On my grind, watch me shine and throw dem dimes.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 98: February 7th, 2021
+
+**Today's Progress**: I volunteered to be the coder for the Code Book Club. We solved a problem where we needed to return a camelCase string that looked more like this: camel Case. We used regex and came up with a concise solution! It's always fun to code in a group and see how others problem solve. I worked on more Golang basics too.
+
+**Thoughts** Code it on up like a fried for loop!
+
+**Link(s) to work**: N/A (for now)
