@@ -796,3 +796,11 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 **Thoughts** Code it on up like a fried for loop!
 
 **Link(s) to work**: N/A (for now)
+
+### Day 99: February 8th, 2021
+
+**Today's Progress**: Worked more with React. Began making anoter form. Read about cool custom hooks thanks to an @benmvp article. Started learning Node. It's sweet so far!
+
+**Thoughts** We are going to stay hot like an August day in Florida.
+
+**Link(s) to work**: N/A (for now)
