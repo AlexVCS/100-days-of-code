@@ -799,8 +799,16 @@ Also worked on a hamburger menu nav bar for an open source project. Still have t
 
 ### Day 99: February 8th, 2021
 
-**Today's Progress**: Worked more with React. Began making anoter form. Read about cool custom hooks thanks to an @benmvp article. Started learning Node. It's sweet so far!
+**Today's Progress**: Worked more with React. Began making another form. Read about cool custom hooks thanks to an @benmvp article. Started learning Node. It's sweet so far!
 
 **Thoughts** We are going to stay hot like an August day in Florida.
 
 **Link(s) to work**: N/A (for now)
+
+### Day 100: February 9th, 2021
+
+**Today's Progress**: Continued learning Node. Built out the form a little more. Organized my Mad Libzz code. Learned what the tech clubhouse hype is all about! Stoked to jump right into round two tomorrow.
+
+**Thoughts** Reaching the top of this mountain and looking at the next peak excited to continue the journey.
+
+**Link(s) to work**: https://madlibzz.netlify.app/
